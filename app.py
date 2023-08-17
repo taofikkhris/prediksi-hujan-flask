@@ -26,7 +26,7 @@ def predict():
     prediction = logreg.predict(final_features)
 
     # output
-    output = {0: 'Not Rain', 1: 'Rain'}
+    output = {0: 'Tidak Hujan', 1: 'Hujan'}
 
     return flask.render_template('index.html', prediction_text=output[prediction[0]])
 
