@@ -5,7 +5,7 @@ from markupsafe import escape
 from src import prepare_input
 app = flask.Flask(__name__, template_folder='templates')
 
-rainPredictor = pickle.load(open("model/rain_predictor.pkl", 'rb'))
+rainPredictor = pickle.load(open("model/models_trained.pkl", 'rb'))
 
 
 @app.route('/')
