@@ -1,0 +1,21 @@
+﻿Kota,Suhu Minimum,Suhu Maximum,Curah Hujan,Penguapan,Jam Cerah,Arah Angin 24 jam,Kecepatan Angin 24 jam,Arah Angin 9 Pagi,Arah Angin 3 Sore,Kecepatan Angin 9 Pagi,Kecepatan Angin 3 Sore,Kelembaban 9 Pagi,Kelembaban 3 Sore,Tekanan Udara 9 Pagi,Tekanan Udara 3 Sore,Awan 9 Pagi,Awan 3 Sore,Suhu Celcius 3 Sore,Hari ini Hujan
+Launceston,8.4,20.3,0,NA,NA,NW,33,NW,N,15,15,60,58,1005.5,1006.3,NA,NA,19,No
+Albury,20.9,23.8,3.4,NA,NA,SSE,15,NA,S,0,4,94,88,1011.9,1013.3,8,4,23.4,Yes
+Darwin,24.7,33.8,0,NA,9.9,NNW,39,ENE,N,11,28,60,41,1014.1,1010,7,7,31.7,No
+SydneyAirport,21,30,0,7.2,6.4,E,35,SSW,ENE,15,28,77,69,1015.1,1007.2,6,6,24.9,No
+Katherine,8.8,31,0,6.6,NA,SE,31,SE,ENE,7,13,42,NA,1015.7,1011.9,0,NA,NA,No
+Wollongong,16.4,19.4,0.4,NA,NA,SSW,65,SSW,SW,39,31,70,75,1025.1,1025.5,8,8,17,No
+Woomera,10.8,16.9,8.9,1.7,NA,WSW,24,W,W,13,17,96,73,1015.3,1013.5,7,7,16.5,Yes
+MelbourneAirport,10.6,23.9,0,4.4,12,S,31,SSE,SSE,13,9,78,56,1024.6,1022.6,2,1,21.9,No
+Cobar,19.4,27.4,0,4.4,1.1,E,48,SSE,ESE,15,9,51,48,1013.4,1010.6,8,8,25.9,No
+Walpole,13.5,21.9,0,NA,NA,SSW,28,WNW,SSW,9,15,91,68,1014.2,1014.6,NA,NA,21.8,No
+Woomera,10.9,13.8,0.6,11.8,NA,SSW,57,SSW,SSW,11,28,92,78,1015.4,1015.8,7,NA,12.4,No
+Penrith,2,18.8,0,NA,NA,S,13,N,WNW,4,4,82,34,NA,NA,NA,NA,18.1,No
+Bendigo,13.2,29.2,0,NA,NA,NNE,35,ESE,NE,11,19,63,32,1004.9,1001.6,NA,NA,28.9,No
+Albury,24.4,34,0.6,NA,NA,NW,98,N,NNW,26,48,60,39,1005.3,997.8,4,1,33.1,No
+Richmond,11.8,17.6,0,3.6,NA,W,70,WNW,W,13,33,46,35,1010,1010.3,NA,NA,16.8,No
+Ballarat,2.1,13.2,0,NA,NA,W,28,NW,W,6,19,90,74,1006.7,1005.8,6,8,11.5,No
+NorfolkIsland,12.3,19.7,0,5.4,10,ENE,26,NNE,WSW,11,13,58,56,1021.4,1019.6,2,5,18.5,No
+Williamtown,20,25.7,11,7.4,NA,S,65,S,SSW,19,33,96,91,1010.6,1010.9,8,7,22.3,Yes
+NorahHead,16.1,NA,0,NA,NA,NA,NA,NNW,ENE,9,28,69,77,1020,1014.3,NA,NA,21.6,No
+Newcastle,NA,22.7,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,No
